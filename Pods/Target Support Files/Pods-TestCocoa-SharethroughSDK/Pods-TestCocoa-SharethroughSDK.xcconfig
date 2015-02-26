@@ -1,0 +1,2 @@
+PODS_TESTCOCOA_SHARETHROUGHSDK_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/SharethroughSDK" "$(PODS_ROOT)/SharethroughSDK"
+PODS_TESTCOCOA_SHARETHROUGHSDK_OTHER_LDFLAGS = -framework "AdSupport" -framework "CoreGraphics" -framework "Foundation" -framework "MediaPlayer" -framework "SharethroughSDK" -framework "UIKit"

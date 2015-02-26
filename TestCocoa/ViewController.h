@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <SharethroughSDK/SharethroughSDK.h>
 
-@interface ViewController : UIViewController
+#define ALog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+
+@interface ViewController : UIViewController <STRAdViewDelegate>
 
 
 @end

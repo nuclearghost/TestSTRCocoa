@@ -1,0 +1,1 @@
+../../../SharethroughSDK/SharethroughSDK.framework/Versions/A/Headers/UICollectionView+STR.h

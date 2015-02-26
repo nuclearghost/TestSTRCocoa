@@ -1,0 +1,10 @@
+PODS:
+  - SharethroughSDK (2.1.0)
+
+DEPENDENCIES:
+  - SharethroughSDK (~> 2.1)
+
+SPEC CHECKSUMS:
+  SharethroughSDK: b0412da52151adbb7b79456eb868ef1dd9cfee07
+
+COCOAPODS: 0.35.0
